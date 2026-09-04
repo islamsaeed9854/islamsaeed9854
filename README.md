@@ -81,12 +81,3 @@
   💻 **Code:** [Recognizing Hand Movements Using EEG-Signal Classification](https://github.com/islamsaeed9854/Recognizing-Hand-Movements-Using-Eeg-Signal-Classification)
 * **Published IEEE Paper:**  
   📄 **IEEE Xplore:** [Analysis of EEG-Based Motor Imagery for Hand Movement Recognition](https://ieeexplore.ieee.org/document/10391145/)
-
----
-
-### 📊 GitHub & Coding Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=islamsaeed9854&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Islam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamsaeed9854&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
