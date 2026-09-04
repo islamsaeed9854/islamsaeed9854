@@ -1,7 +1,9 @@
 <div align="center">
-  <h1>Hi there, I'm Islam Saeed 👋</h1>
-  <p><b>Software Engineer | .NET & Angular Full-Stack Developer</b></p>
-  <p>Passionate about building scalable, secure distributed systems, AI integration, and clean architecture.</p>
+  <h1>Welcome to Islam Saeed's profile! 👋</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=EA5880&center=true&vCenter=true&width=460&lines=Software+Engineer;Full-Stack+.NET+%26+Angular+Dev;Competitive+Programmer;Clean+Architecture+Enthusiast" alt="Typing SVG" />
+  </a>
+  <br><br>
 
   <!-- Social & Contact Badges -->
   <p>
