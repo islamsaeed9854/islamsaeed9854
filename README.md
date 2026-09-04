@@ -1,62 +1,92 @@
-<h1 align="center">Hi there, I'm Islam Saeed 👋</h1>
+<div align="center">
+  <h1>Hi there, I'm Islam Saeed Fouly 👋</h1>
+  <p><b>Software Engineer | .NET & Angular Full-Stack Developer</b></p>
+  <p>Passionate about building scalable, secure distributed systems, AI integration, and clean architecture.</p>
 
-<p align="center">
-  <b>Full-Stack Software Engineer | .NET & Angular</b>[cite: 1]<br>
-  <i>Building scalable, distributed applications and clean architectures.</i>[cite: 1]
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:islam.saeed.pro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-</p>
-
----
-
-### 👨‍💻 Profile Overview
-
-* 🎓 **Education**: BSc in Computer Science from Ain Shams University (Graduation Project: EEG Signal Classification, Grade A+)[cite: 1] and graduate of the ITI 9-Month Professional Development & BI-infused CRM Track[cite: 1].
-* ⚙️ **Core Focus**: Designing enterprise full-stack solutions utilizing ASP.NET Core, EF Core, SQL Server, and Angular[cite: 1].
-* 🧠 **Algorithmic Background**: Solved 1,500+ competitive programming problems[cite: 1].
-* 🏆 **Achievements**: Ranked 9th at ECPC 2022 (Ain Shams Univ.)[cite: 1] and 4,504th globally in Google Hash Code 2021[cite: 1].
-* 📐 **Practices**: Clean Architecture, SOLID principles, OOP, and Design Patterns[cite: 1].
-
----
-
-### 🛠️ Technical Skills
-
-* **Languages**: C#, TypeScript, JavaScript (ES6+), C++, SQL[cite: 1]
-* **Backend & Databases**: .NET, ASP.NET Core (Web API / MVC), EF Core, SQL Server, SignalR, gRPC, Transactions[cite: 1]
-* **Frontend**: Angular, RxJS, NgRx, Signals, Change Detection, Interceptors, Guards[cite: 1]
-* **CRM & Power Platform**: Microsoft Dynamics 365 CRM, Power Apps, Power Automate, CRM Plugins, PCF Controls[cite: 1]
-* **DevOps & Cloud**: Docker, GitHub Actions (CI/CD), Git, Linux, Nginx, Serilog, Seq[cite: 1]
-* **AI & Machine Learning**: LLMs, Retrieval-Augmented Generation (RAG), Agentic AI[cite: 1]
+  <!-- Social & Contact Badges -->
+  <p>
+    <a href="https://linkedin.com/in/islam-saeed-fouly" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://codeforces.com/profile/Islam.Saeed" target="_blank">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    </a>
+    <a href="mailto:islam.saeed.pro@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/islamsaeed9854">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 🚀 Featured Projects
+### 👨‍💻 About Me
 
-* **[Salasel – AI-Powered Procurement Platform](https://github.com/islamsaeed9854)**[cite: 1]
-  * Architected the backend using ASP.NET Web API, Clean Architecture, and EF Core following SOLID principles[cite: 1].
-  * Developed a responsive supplier dashboard using Angular, TypeScript, RxJS, and Signals[cite: 1].
-  * Configured GitHub Actions CI/CD pipelines deploying Docker containers to a Linux VPS via Nginx[cite: 1].
-
-* **[COZA Store – E-Commerce Platform](https://github.com/islamsaeed9854)**[cite: 1]
-  * Built an N-Tier e-commerce platform using .NET 10, ASP.NET Core MVC, and SQL Server[cite: 1].
-  * Implemented authentication via ASP.NET Core Identity with OAuth, JWT, and email confirmation[cite: 1].
-  * Integrated the Stripe payment API, dynamic AJAX shopping cart, and administrative control panels[cite: 1].
-
-* **[Ramco – Car Rental System](https://ramco.com.sa)**[cite: 1]
-  * Built vehicle inventory, dynamic rental booking workflows, and admin features using ASP.NET Core MVC and SQL Server[cite: 1].
-
-* **Ahadith Alzakah Mobile App**[cite: 1]
-  * Published an offline-first cross-platform application on Google Play and Microsoft Store[cite: 1].
+* 🎓 **Education**: 
+  * **Information Technology Institute (ITI)**: 9-Month Professional Development & BI-infused CRM Track.
+  * **Ain Shams University**: B.Sc. in Computer Science (Scientific Computing), Grade: **Excellent (A+)**.
+* 🧠 **Problem Solving**: Solved **1,500+ competitive programming problems** across Codeforces and other platforms.
+* 🏆 **Competitive Highlights**:
+  * **Ranked 9th** at ECPC 2022 (Ain Shams University).
+  * **Ranked 4,504th globally** in Google Hash Code 2021.
+  * Former Algorithms & Competitive Programming Coach at PST Coach Academy.
+* 🎖️ **Military Status**: Completed (Oct 2023 – Dec 2024).
 
 ---
 
-### 📊 GitHub Activity
+### 🛠️ Technical Stack
 
-<p align="center">
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | C#, TypeScript, JavaScript (ES6+), C++, SQL |
+| **Backend & APIs** | .NET, ASP.NET Core (Web API & MVC), Entity Framework Core, SignalR, gRPC, Distributed Transactions |
+| **Frontend** | Angular, RxJS, NgRx, Signals, Change Detection, Services, Interceptors, Guards |
+| **Databases** | Microsoft SQL Server |
+| **Architecture & Patterns** | Clean Architecture, N-Tier Architecture, SOLID Principles, Design Patterns, Repository & Unit of Work |
+| **DevOps & Cloud** | Docker, CI/CD (GitHub Actions), Nginx, Linux VPS, Git |
+| **Logging & Monitoring** | Serilog, Seq |
+| **CRM & Power Platform** | Microsoft Dynamics 365 CRM, Power Apps, Power Automate, CRM Plugins, PCF Controls |
+| **AI & LLMs** | Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) |
+
+---
+
+### 🚀 Featured Projects & Products
+
+#### 🔹 [Salasel – AI-Powered Procurement Platform](https://github.com/Abdelrahmansaeed2/salasel-ai-procurement) *(ITI Graduation Project)*
+* Architected the backend using **Clean Architecture**, **ASP.NET Core Web API**, and **EF Core** applying SOLID and Dependency Injection principles.
+* Built a responsive supplier dashboard in **Angular** using **TypeScript**, **RxJS**, and **Signals**.
+* Engineered end-to-end automated **GitHub Actions CI/CD** deployment of **Docker** containers to a **Linux VPS** reverse-proxied via **Nginx**.
+
+#### 🔹 [COZA Store – E-Commerce Platform](https://github.com/0Abdelrahman1/Men-Accessories-ITI)
+* Developed an N-Tier enterprise e-commerce platform using **.NET 10**, **ASP.NET Core MVC**, and **EF Core** with Repository and Service patterns.
+* Built secure authentication via **ASP.NET Core Identity** (OAuth, JWT, email confirmation).
+* Integrated **Stripe API** for payment processing and built an interactive **AJAX-driven** shopping cart with administrative panels.
+
+#### 🔹 [Ramco – Car Rental System](https://ramco.com.sa/)
+* Engineered a production car rental web platform with **ASP.NET Core MVC** and **SQL Server**.
+* Implemented dynamic fleet inventory management, custom booking reservation workflows, and an administrative control panel.
+
+#### 🔹 Ahadith Alzakah Cross-Platform App
+* An offline-first mobile and desktop application available on:
+  * 📱 **[Google Play Store](https://play.google.com/store/apps/details?id=com.moussat.ahadithAlzakah)**
+  * 💻 **[Microsoft Store](https://apps.microsoft.com/detail/9N2K48V1H64S?hl=neutral&gl=US&ocid=pdpshare)**
+
+---
+
+### 🔬 Research & Academic Work
+
+* **Graduation Project (Ain Shams University - Grade A+):**  
+  💻 **Code:** [Recognizing Hand Movements Using EEG-Signal Classification](https://github.com/islamsaeed9854/Recognizing-Hand-Movements-Using-Eeg-Signal-Classification)
+* **Published IEEE Paper:**  
+  📄 **IEEE Xplore:** [Analysis of EEG-Based Motor Imagery for Hand Movement Recognition](https://ieeexplore.ieee.org/document/10391145/)
+
+---
+
+### 📊 GitHub & Coding Stats
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=islamsaeed9854&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Islam's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamsaeed9854&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+</div>
