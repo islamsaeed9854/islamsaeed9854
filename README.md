@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Islam Saeed Fouly 👋</h1>
+  <h1>Hi there, I'm Islam Saeed👋</h1>
   <p><b>Software Engineer | .NET & Angular Full-Stack Developer</b></p>
   <p>Passionate about building scalable, secure distributed systems, AI integration, and clean architecture.</p>
 
