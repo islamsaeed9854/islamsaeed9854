@@ -36,19 +36,54 @@
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Tech Stack
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | C#, TypeScript, JavaScript (ES6+), C++, SQL |
-| **Backend & APIs** | .NET, ASP.NET Core (Web API & MVC), Entity Framework Core, SignalR, gRPC, Distributed Transactions |
-| **Frontend** | Angular, RxJS, NgRx, Signals, Change Detection, Services, Interceptors, Guards |
-| **Databases** | Microsoft SQL Server |
-| **Architecture & Patterns** | Clean Architecture, N-Tier Architecture, SOLID Principles, Design Patterns, OOP |
-| **DevOps & Cloud** | Docker, CI/CD (GitHub Actions), Nginx, Linux VPS, Git |
-| **Logging & Monitoring** | Serilog, Seq |
-| **CRM & Power Platform** | Microsoft Dynamics 365 CRM, Power Apps, Power Automate, CRM Plugins, PCF Controls |
-| **AI & LLMs** | Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) |
+**Languages**  
+<p>
+  <img src="https://img.shields.io/badge/C%23-181717?logo=csharp&logoColor=239120" alt="C#" />
+  <img src="https://img.shields.io/badge/TypeScript-181717?logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-181717?logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-181717?logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-181717?logo=microsoftsqlserver&logoColor=CC292B" alt="SQL" />
+</p>
+
+**Backend & Architecture**  
+<p>
+  <img src="https://img.shields.io/badge/.NET-181717?logo=dotnet&logoColor=512BD4" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-181717?logo=dotnet&logoColor=512BD4" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/EF_Core-181717?logo=dotnet&logoColor=512BD4" alt="EF Core" />
+  <img src="https://img.shields.io/badge/SignalR-181717?logo=dotnet&logoColor=512BD4" alt="SignalR" />
+  <img src="https://img.shields.io/badge/gRPC-181717?logo=grpc&logoColor=244c5a" alt="gRPC" />
+</p>
+
+**Frontend**  
+<p>
+  <img src="https://img.shields.io/badge/Angular-181717?logo=angular&logoColor=DD0031" alt="Angular" />
+  <img src="https://img.shields.io/badge/RxJS-181717?logo=reactivex&logoColor=B7178C" alt="RxJS" />
+  <img src="https://img.shields.io/badge/NgRx-181717?logo=ngrx&logoColor=BA2BD2" alt="NgRx" />
+  <img src="https://img.shields.io/badge/HTML5-181717?logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-181717?logo=css3&logoColor=1572B6" alt="CSS3" />
+</p>
+
+**Databases & DevOps**  
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-181717?logo=microsoftsqlserver&logoColor=CC292B" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Docker-181717?logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-181717?logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Nginx-181717?logo=nginx&logoColor=009639" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Linux-181717?logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=F05032" alt="Git" />
+</p>
+
+**CRM & Developer Tools**  
+<p>
+  <img src="https://img.shields.io/badge/Dynamics_365-181717?logo=microsoft&logoColor=002050" alt="Dynamics 365" />
+  <img src="https://img.shields.io/badge/Power_Apps-181717?logo=powerapps&logoColor=742774" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Power_Automate-181717?logo=powerautomate&logoColor=0066FF" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Visual_Studio-181717?logo=visualstudio&logoColor=5C2D91" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-181717?logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-181717?logo=postman&logoColor=FF6C37" alt="Postman" />
+</p>
 
 ---
 
